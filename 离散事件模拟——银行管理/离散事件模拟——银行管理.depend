@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535254351 source:c:\赵静 code blocks\离散事件模拟——银行管理\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
