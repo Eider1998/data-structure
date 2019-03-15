@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552655541 source:c:\赵静 code blocks\数组计算机\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
